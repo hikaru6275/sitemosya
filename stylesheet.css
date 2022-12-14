@@ -13,8 +13,7 @@ li {
 
 .header-list li {
   float: left;
-  padding: 33px;
-  padding: 20px;
+  padding: 33px 20px;
 }
 
 .header-logo {
